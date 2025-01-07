@@ -1,0 +1,1 @@
+For Hiragana and Katakana models you need to obtain a license for http://etlcdb.db.aist.go.jp/ datasets, since they are not public. Here I used ETL1 for Katakana, and ETL7 for Hiragana. Kuzushiji dataset is public.
