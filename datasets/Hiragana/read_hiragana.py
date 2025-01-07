@@ -79,7 +79,7 @@ def read_hira():
     labels = np.array(labels, dtype=np.uint16)
 
     np.savez_compressed("hiragana_dataset.npz", images=images, labels=labels)
-    print("Dataset saved as katakana_images_labels_normalized.npz")
+    print("Dataset saved as hiragana_dataset.npz")
     return images, labels
 
 read_hira()
